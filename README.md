@@ -19,6 +19,7 @@ The algorithm of the system is like that:
    •	Press ' n ' to TURN OFF the air conditioner in the living room.     
    •	Press ' z ' to TURN ON the air conditioner in the bedroom.   
    •	Press ' x ' to TURN OFF the air conditioner in the bedroom.
+   
 This system needes two 9V voltage supply as input one for microprocessor and the other one for driving motors. 
 PIC16F877A microprocessor needs 5V as input for this reason voltage reducer part was used, in this voltage reducer part 78L05 voltage regulator was used.
 6V DC-Motors were used in this project for driving these motors L293D Motor Driver Shield was used. 
