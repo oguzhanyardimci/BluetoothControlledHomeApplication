@@ -8,7 +8,7 @@ The algorithm of the system is like that:
 2. Connect to HC05- Bluetooth Module with using Android device.
 3. Commands are explained in the below, press a character which fit your desire:
 
-   •	Press ' a ' to TURN ON the lights of the living room.
+   •	Press ' a ' to TURN ON the lights of the living room.          
    •	Press ' b ' to TURN OFF the lights of the living room.  
    •	Press ' c ' to TURN ON the lights of the bedroom.        
    •	Press ' d ' to TURN OFF the lights of the bedroom.     
@@ -16,7 +16,7 @@ The algorithm of the system is like that:
    •	Press ' f ' to TURN OFF the lights of the bathroom.     
    •	Press ' g ' to TURN ON the lights of the kitchen.     
    •	Press ' h ' to TURN OFF the lights of the kitchen.   
-   •	Press ' m ' to TURN ON the air conditioner in the living room .
+   •	Press ' m ' to TURN ON the air conditioner in the living room.            
    •	Press ' n ' to TURN OFF the air conditioner in the living room.     
    •	Press ' z ' to TURN ON the air conditioner in the bedroom.   
    •	Press ' x ' to TURN OFF the air conditioner in the bedroom.
